@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Peruvian startup Leasy secures $17M in debt & equity to provide auto loans to ride-hailing drivers in LatAm",
+            "description": "Leasy, a startup which offers automobile financing to ride-hailing drivers in Latin America via a subscription model, has secured $2 million in equity and $15 million in debt. Italian-born Gregorio Gilardini and Alejandro Garay, who hails from Spain, met in P…",
+            "url": "https://techcrunch.com/2022/02/25/peruvian-startup-leasy-secures-17m-in-debt-equity-to-provide-auto-loans-to-ride-hailing-drivers-in-latam/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/DSC_6189.jpg?w=601",
+            "publishedAt": "2022-02-25T15:15:55Z",
+            "content": "Leasy, a startup which offers automobile financing to ride-hailing drivers in Latin America via a subscription model, has secured $2 million in equity and $15 million in debt.\r\nItalian-born Gregorio … [+6090 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Are late-stage startup valuations going to suffer this year?",
+            "description": "Everyone can run the math on what slowing growth and cash burn are worth on the public markets, and it's a very different number than it was last year.",
+            "url": "https://techcrunch.com/2022/02/25/are-late-stage-startup-valuations-going-to-suffer-this-year/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533",
+            "publishedAt": "2022-02-25T15:03:48Z",
+            "content": "Coinbase utterly crushed its most recent quarter. Its results came in far ahead of street expectations, with the U.S. crypto exchange posting net revenues of $2.49 billion, net income of $840 million… [+2428 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Can Taur be the brand that makes e-scooter ownership cool?",
+            "description": "Taur Technologies believes the e-scooter industry is moving towards the ownership model and away from shared scooters.",
+            "url": "https://techcrunch.com/2022/02/25/can-taur-be-the-brand-that-makes-e-scooter-ownership-cool/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/1-1.jpg?w=711",
+            "publishedAt": "2022-02-25T14:00:48Z",
+            "content": "Much of the e-scooter conversation has been dominated by the happenings of shared vehicles, the companies that deploy them and the cities in which they are deployed. But Carson Brown, co-founder and … [+5149 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Cococart sweetens the process for e-commerce companies to take orders immediately",
+            "description": "Cococart's tools enable merchants to set up an online store in minutes with no code, no design and no app downloads.",
+            "url": "https://techcrunch.com/2022/02/25/cococart-seed-e-commerce-orders/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/Cococart-x-a.oven_-1.jpeg?w=711",
+            "publishedAt": "2022-02-25T14:00:02Z",
+            "content": "Two years ago, entrepreneur Derek Low lost his hotel in Bali and began selling homemade cheesecakes online to make ends meet. However, he found it difficult to find an easy e-commerce tool that enabl… [+3284 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Singapore-based micromobility startup Beam secures $93M Series B, enters new markets",
+            "description": "Beam, a Singaporean shared micromobility operator, announced today that it has raised $93 million in a Series B round to accelerate growth into new countries in Asia. The fresh capital, which brings its total funding raised to $135 million, was led by Affirma…",
+            "url": "https://techcrunch.com/2022/02/24/singapore-based-micromobility-startup-beam-secures-93m-series-b-enters-new-markets/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/Series-B-Visuals_TriModal.jpg?w=711",
+            "publishedAt": "2022-02-25T03:00:21Z",
+            "content": "Beam, a Singaporean shared micromobility operator, announced today that it has raised $93 million in a Series B round to accelerate growth into new countries in Asia.\r\nThe fresh capital, which brings… [+3346 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "Carvana acquires Adesa US auction business for $2.2B to jump-start used car sales",
+            "description": "Carvana, the online used car marketplace, agreed to buy Kar Global's Adesa U.S. auction subsidiary for $2.2 billion in cash as it seeks to jumpstart sales.",
+            "url": "https://techcrunch.com/2022/02/24/carvana-buys-adesa-us-auction-business-to-jumpstart-used-car-sales/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/Carvana-Nashville-Vending-Machine.jpg?w=600",
+            "publishedAt": "2022-02-25T01:44:11Z",
+            "content": "Carvana, the online used car marketplace, has agreed to buy Kar Global’s Adesa U.S. auction subsidiary for $2.2 billion in cash, an acquisition aimed at adding another revenue stream as well as a net… [+3312 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "UK wants to squeeze freedom of reach to take on internet trolls",
+            "description": "The UK government has announced (yet) more additions to its expansive and controversial plan to regulate online content — aka the Online Safety Bill. It says the latest package of measures to be added to the draft are intended to protect web users from anonym…",
+            "url": "https://techcrunch.com/2022/02/24/uk-online-safety-bill-anonymous-trolling/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/bugcrowd.jpg?w=596",
+            "publishedAt": "2022-02-25T00:53:26Z",
+            "content": "The UK government has announced (yet) more additions to its expansive and controversial plan to regulate online content — aka the Online Safety Bill.\r\nIt says the latest package of measures to be add… [+18552 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Daily Crunch: Overnight, Russia's invasion puts Ukrainian tech industry on a war footing",
+            "description": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/02/24/daily-crunch-overnight-russias-invasion-puts-ukrainian-tech-industry-on-a-war-footing/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/ukraine-GettyImages-1238724442.jpg?w=614",
+            "publishedAt": "2022-02-25T00:05:50Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nHello and welcome to Daily Crunch for Thursday, February 24, 2022.… [+6129 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "OMG, my Facebook was hacked! Here's what to do",
+            "description": "Here are the steps you can take when your Facebook account has been hacked -- and how you can prevent getting hacked in the first place",
+            "url": "https://techcrunch.com/2022/02/24/facebook-hacked/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-rough-texture.jpg?w=711",
+            "publishedAt": "2022-02-24T23:45:45Z",
+            "content": "Even technically sophisticated friends are currently getting “hacked” on Facebook — here’s how to avoid it, and how to make sure your hacked account is fully recovered.\r\nUsually, accounts are “hacked… [+3924 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jon Fingas",
+            "title": "SEC opens investigation into Elon Musk over possible insider trading",
+            "description": "Elon Musk isn't getting a break from the SEC any time soon. WSJ reports the SEC is investigating whether Musk and his brother Kimbal violated insider trading regulations with recent share sales.",
+            "url": "https://techcrunch.com/2022/02/24/sec-opens-investigation-into-elon-musk-over-possible-insider-trading/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1175368064.jpg?w=600",
+            "publishedAt": "2022-02-24T23:01:42Z",
+            "content": "More posts by this contributor\r\nElon Musk isn’t about to catch a hoped-for break from the SEC any time soon. Sources for The Wall Street Journalclaim the SEC is investigating whether Musk and his bro… [+1806 chars]"
+        }
+    ]
+}
